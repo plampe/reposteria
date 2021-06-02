@@ -617,5 +617,51 @@ footer p {
     width: 100%;
     padding-left: 100rem;
     padding-top: 5rem;
+    width: 50rem;
+    height: 50rem;
+    float: left;
 }
 
+/** Contacto **/
+.formulario {
+background-color: var(--amarillo);
+width: min(60rem, 100%); /** utilizar el valor mas peq **/
+padding: 2rem;
+
+}
+
+.formulario fieldset {
+    border: none;
+}
+
+.formulario legend {
+    text-align: center;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: var(--blanco);
+}
+
+.form-campos {
+
+
+}
+
+.campos{
+    margin-bottom: 1rem;
+}
+
+.campos label {
+    color: var(--blanco);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.allcampos {
+    width: 100%;
+    border: none;
+    padding: 1.5rem;
+    border-radius: .5rem;
+}
