@@ -21,8 +21,8 @@ body {
     /* 1rem = 10px */
     font-family: 'Montserrat', sans-serif;
     background-image: linear-gradient(to top, var(--grisClaro) 0%, var(--blanco)100%);
-    width: 20vw;
-    height: 20vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 h1 {
