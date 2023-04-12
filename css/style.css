@@ -465,7 +465,7 @@ footer p {
 }
 
 .imgNosotros img {
-    width: 130%;
+    width: 100%;
     padding-left: 20rem;
     padding-top: 10rem;
 }
@@ -490,7 +490,7 @@ footer p {
 }
 
 .pasteleros {
-    width: 40rem;
+    width: 30rem;
     float: left;
     margin-left: 1rem;
     margin-right: 1rem;
