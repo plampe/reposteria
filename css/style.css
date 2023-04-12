@@ -281,7 +281,7 @@ h3 {
 }
 .contenidoPrincipal-productos {
     float: left;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-block: 10rem;  
 }
 .producto {
@@ -335,7 +335,8 @@ h3 {
 
 .cont-footer {
     float: left;
-    margin-left: 10%;
+
+   /*margin-left: 10%;*/
     
 
 } 
