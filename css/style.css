@@ -10,11 +10,6 @@
 
 }
 
-body{
-    width: 1vw;
-  height: 1vh;
-}
-
 html {
     font-size: 62.5%;
     box-sizing: inherit;
@@ -26,6 +21,8 @@ body {
     /* 1rem = 10px */
     font-family: 'Montserrat', sans-serif;
     background-image: linear-gradient(to top, var(--grisClaro) 0%, var(--blanco)100%);
+    width: 20vw;
+    height: 20vh;
 }
 
 h1 {
